@@ -1,16 +1,114 @@
-## Hi there 👋
+# 👋 Hi, I'm Shameem Yousuf  
+### *Data Analyst | Business Analyst | Financial Analyst*  
 
-<!--
-**shameemym24/shameemym24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Dubai, UAE | 📧 [shameem.yousuf47@gmail.com](mailto:shameem.yousuf47@gmail.com) | 🌐 [LinkedIn](http://www.linkedin.com/in/shameem90)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me  
+I'm an **entry-level Data Analyst** skilled in **SQL, Python, Power BI, and Excel**, passionate about transforming messy datasets into meaningful insights.  
+I enjoy **data cleaning, visualization, and storytelling**, helping businesses make better, data-driven decisions.  
+Currently expanding my skills in **AI-powered analytics**, **dashboard automation**, and **advanced SQL querying**.
+
+---
+
+## 🧠 Technical Skills  
+
+**Programming & Analysis:**  
+`Python (Pandas, NumPy, Matplotlib, Seaborn)` | `R (Basic)`  
+
+**Databases:**  
+`SQL (PostgreSQL, MySQL, SQL Server)` | `Excel`  
+
+**Visualization Tools:**  
+`Power BI` | `Tableau`  
+
+**Business Intelligence:**  
+`Power Query` | `DAX` | `Data Modelling`  
+
+**Reporting Tools:**  
+`Gamma` | `MS PowerPoint` | `MS Word`  
+
+**Other:**  
+`GitHub` | `Jupyter Notebook` | `Google Sheets`
+
+---
+
+## 🧩 Featured Projects  
+
+### 🛒 Zepto E-commerce SQL Analysis  
+- Simulated a **real-world e-commerce inventory database** to improve data consistency by 23%.  
+- Conducted **SQL-based EDA** to identify pricing discrepancies and optimize inventory.  
+- Developed **business-driven SQL queries** for revenue and stock insights.  
+🔗 [View Project](#)
+
+---
+
+### 🧍 Customer Behavior Data Analysis  
+- Performed **end-to-end EDA** using Python, improving data accuracy by 25%.  
+- Built **Power BI dashboards** to visualize KPIs and trends.  
+- Delivered **insightful reports** to support strategic decision-making.  
+🔗 [View Project](#)
+
+---
+
+## 🏆 Certifications  
+
+- 🧠 **Data Analytics Using AI** (Nov 2025)  
+- 📊 **Tableau Masterclass** (Oct 2025)  
+- 📗 **Excel Mastery** (Oct 2025)  
+- 🧾 **PowerPoint Mastery** (Oct 2025)  
+- 🐍 **Python For All** (Sep 2025)  
+- 💼 **Power BI Dashboard Mastery** (Aug 2025)  
+- 💻 **SQL Masterclass** (Aug 2025)  
+- 🔍 **Deloitte Australia Data Analytics Simulation (Forage)**  
+- 📈 **Quantium Data Analytics Job Simulation (Forage)**  
+
+---
+
+## 🎓 Education  
+
+🎓 **Post Graduate Diploma in Practical Corporate Accounting (PGDPCA)**  
+*Accounts Solutions, India — Oct 2025*  
+
+🎓 **Bachelor of Commerce**  
+*University of Mangalore, India — Aug 2024*  
+
+---
+
+## 🚀 Currently Learning  
+- AI in Business Intelligence  
+- Advanced SQL Query Optimization  
+- Interactive Dashboards in Power BI  
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![Shameem's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameem-yousuf&show_icons=true&theme=default&hide_border=false&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameem-yousuf&layout=compact&theme=default)
+
+---
+
+## 🤝 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shameem90)  
+📧 [shameem.yousuf47@gmail.com](mailto:shameem.yousuf47@gmail.com)
+
+---
+
+⭐ *“Turning data into insights, and insights into action.”*  
+
