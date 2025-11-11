@@ -6,8 +6,7 @@
 ---
 
 ## 💡 About Me  
-I'm an **entry-level Data Analyst** skilled in **SQL, Python, Power BI, and Excel**, passionate about transforming messy datasets into meaningful insights.  
-I enjoy **data cleaning, visualization, and storytelling**, helping businesses make better, data-driven decisions.  
+I'm an **entry-level Data Analyst** skilled in **SQL, Python, Power BI, and Excel**, passionate about transforming messy datasets into meaningful insights. I enjoy **data cleaning, visualization, and storytelling**, helping businesses make better, data-driven decisions.  
 Currently expanding my skills in **AI-powered analytics**, **dashboard automation**, and **advanced SQL querying**.
 
 ---
@@ -57,13 +56,13 @@ Currently expanding my skills in **AI-powered analytics**, **dashboard automatio
 - 🧠 **Data Analytics Using AI** | [LINK](https://app.aicareeraccelerator.in/certificate/BQ0qKuAj5n9xtAr)  
 - 📊 **Tableau Masterclass** | [LINK](https://app.aicareeraccelerator.in/certificate/d6rHsuSJpiEqHmY)    
 - 📗 **Excel Mastery** | [LINK](https://app.aicareeraccelerator.in/certificate/kz06GCFKGFtFZqt)
-- 🧾 **PowerPoint Mastery** | [LINK]()
-- 🐍 **Python For All** | [LINK](https://app.aicareeraccelerator.in/certificate/7JQ9hY1fl9FAfEL) 
+- 🧾 **PowerPoint Mastery** | [LINK](https://app.aicareeraccelerator.in/certificate/yIjpvAixQZ76Bzp)
+- 🐍 **Python For All** | [LINK]([https://app.aicareeraccelerator.in/certificate/7JQ9hY1fl9FAfEL)
 - 💼 **Power BI Dashboard Mastery** | [LINK](https://app.aicareeraccelerator.in/certificate/-ZhIjKSjW_ECWus) 
 - 💻 **SQL Masterclass** | [LINK](https://app.aicareeraccelerator.in/certificate/SsEtN-IWQzHNUtp)
-- 🔍 **Deloitte Australia Data Analytics Simulation (Forage)** | [LINK](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68f5020d6b77c69ed3c0231e_1761115604893_completion_certificate.pdf)  
-- 📈 **Quantium Data Analytics Job Simulation (Forage)** | [LINK](https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_68f5020d6b77c69ed3c0231e_1761212491515_completion_certificate.pdf)  
-- 📈 **Tata 
+- 🔍 **Deloitte Australia Data Analytics Job Simulation on Forage** | [LINK](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68f5020d6b77c69ed3c0231e_1761115604893_completion_certificate.pdf)  
+- 📈 **Quantium Data Analytics Job Simulation on Forage** | [LINK](https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_68f5020d6b77c69ed3c0231e_1761212491515_completion_certificate.pdf)  
+- 📈 **Tata Group Data Analytics Job Simulation on Forage** | [LINK](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_68f5020d6b77c69ed3c0231e_1760981726330_completion_certificate.pdf) 
 
 ---
 
@@ -100,8 +99,8 @@ Currently expanding my skills in **AI-powered analytics**, **dashboard automatio
 
 ## 📊 GitHub Stats  
 
-![Shameem's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameem-yousuf&show_icons=true&theme=default&hide_border=false&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameem-yousuf&layout=compact&theme=default)
+![Shameem's GitHub stats](https://github-readme-stats.vercel.app/api?username=shameemym24&show_icons=true&theme=default&hide_border=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shameemym24&layout=compact&theme=default)
 
 ---
 
