@@ -40,7 +40,7 @@ Currently expanding my skills in **AI-powered analytics**, **dashboard automatio
 - Simulated a **real-world e-commerce inventory database** to improve data consistency by 23%.  
 - Conducted **SQL-based EDA** to identify pricing discrepancies and optimize inventory.  
 - Developed **business-driven SQL queries** for revenue and stock insights.  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/shameemym24/zepto-SQL-data-analysis-project)
 
 ---
 
@@ -48,21 +48,22 @@ Currently expanding my skills in **AI-powered analytics**, **dashboard automatio
 - Performed **end-to-end EDA** using Python, improving data accuracy by 25%.  
 - Built **Power BI dashboards** to visualize KPIs and trends.  
 - Delivered **insightful reports** to support strategic decision-making.  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/shameemym24/customer_behavior_analysis)
 
 ---
 
 ## 🏆 Certifications  
 
-- 🧠 **Data Analytics Using AI** (Nov 2025)  
-- 📊 **Tableau Masterclass** (Oct 2025)  
-- 📗 **Excel Mastery** (Oct 2025)  
-- 🧾 **PowerPoint Mastery** (Oct 2025)  
-- 🐍 **Python For All** (Sep 2025)  
-- 💼 **Power BI Dashboard Mastery** (Aug 2025)  
-- 💻 **SQL Masterclass** (Aug 2025)  
-- 🔍 **Deloitte Australia Data Analytics Simulation (Forage)**  
-- 📈 **Quantium Data Analytics Job Simulation (Forage)**  
+- 🧠 **Data Analytics Using AI** | [LINK](https://app.aicareeraccelerator.in/certificate/BQ0qKuAj5n9xtAr)  
+- 📊 **Tableau Masterclass** | [LINK](https://app.aicareeraccelerator.in/certificate/d6rHsuSJpiEqHmY)    
+- 📗 **Excel Mastery** | [LINK](https://app.aicareeraccelerator.in/certificate/kz06GCFKGFtFZqt)
+- 🧾 **PowerPoint Mastery** | [LINK]()
+- 🐍 **Python For All** | [LINK](https://app.aicareeraccelerator.in/certificate/7JQ9hY1fl9FAfEL) 
+- 💼 **Power BI Dashboard Mastery** | [LINK](https://app.aicareeraccelerator.in/certificate/-ZhIjKSjW_ECWus) 
+- 💻 **SQL Masterclass** | [LINK](https://app.aicareeraccelerator.in/certificate/SsEtN-IWQzHNUtp)
+- 🔍 **Deloitte Australia Data Analytics Simulation (Forage)** | [LINK](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68f5020d6b77c69ed3c0231e_1761115604893_completion_certificate.pdf)  
+- 📈 **Quantium Data Analytics Job Simulation (Forage)** | [LINK](https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_68f5020d6b77c69ed3c0231e_1761212491515_completion_certificate.pdf)  
+- 📈 **Tata 
 
 ---
 
